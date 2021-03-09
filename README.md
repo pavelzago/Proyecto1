@@ -1,8 +1,6 @@
-  # Prueba Proyecto 1 
- # Presentado por: 
+# Proyecto Fundamentos Sistemas Distribuidos
+## Presentado por Orlando Montenegro y Pavel Zambrano
+:q
 
-# Orlando Montenegro y Pavel Zambrano 	
-
-# 9-03-2021
 
 
